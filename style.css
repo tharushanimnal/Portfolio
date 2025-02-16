@@ -148,7 +148,6 @@ a:hover{
   
 section{
     padding-top: 4vh;
-    height: 96vh;
     margin: 0 10rem;
     box-sizing: border-box;
     min-height: auto;
@@ -390,7 +389,6 @@ article.icon{
 /*Project Section*/
 #projects{
     position: relative;
-    margin-top: 10rem;
 
 }
 .color-container{
@@ -419,7 +417,7 @@ article.icon{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 100vh;
+    height: 70vh;
 
 }
 
